@@ -57,4 +57,13 @@ console.log(employeesScore1 === employeeScore2); // Output: False
 console.log(employeesScore1 !== employeeScore2); // Output: True
 
 
+// Task 5: Logical Operators
+
+let hasKeyCard = true; 
+let hasPermission = false; 
+
+console.log(hasKeyCard && hasPermission); // Output: False 
+console.log(hasKeyCard || hasPermission); // Output: True
+console.log(!hasKeyCard); // Output: False
+
 
