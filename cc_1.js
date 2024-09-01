@@ -40,3 +40,21 @@ console.log("Updated accountBalance:", accountBalance); // Output: Updated accou
 
 accountBalance %= 500; // accountBalance = accountBalance % 500 
 console.log("Updated accountBalance:", accountBalance); // Output: Updated accountBalance: 0 
+
+
+
+
+// Task 4: Comparison Operators
+
+let employeesScore1 = 50;
+let employeeScore2 = 10;
+
+console.log(employeesScore1 > employeeScore2); // Output: True
+console.log(employeesScore1 < employeeScore2); // Output: False 
+console.log(employeesScore1 >= employeeScore2); // Output: True
+console.log(employeesScore1 <= employeeScore2); // Output: False 
+console.log(employeesScore1 === employeeScore2); // Output: False
+console.log(employeesScore1 !== employeeScore2); // Output: True
+
+
+
